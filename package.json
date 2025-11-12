@@ -4,14 +4,13 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "nodemon index.js",
-    "dev": "nodemon index.js"
+    "dev": "nodemon src/index.js"
   },
   "keywords": [],
   "author": "Saksham Singhal",
   "license": "ISC",
   "type": "module",
-  "dependencies": {
+  "devDependencies": {
     "nodemon": "^3.1.11"
   }
 }
